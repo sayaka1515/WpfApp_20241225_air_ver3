@@ -70,6 +70,4 @@ namespace WpfApp_20241211_air
         public Links _links { get; set; }
         public List<Record> records { get; set; }
     }
-
-
 }
